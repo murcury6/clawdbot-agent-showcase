@@ -1,0 +1,19 @@
+# Deny by default. The manifest is the authoritative per-file allowlist.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/PUBLICATION.md
+!/release-manifest.json
+!/*.bat
+!/clawdbot/
+!/clawdbot/README.txt
+!/clawdbot/scripts/
+!/clawdbot/scripts/*.ps1
+!/clawdbot/scripts/*.cmd
+!/clawdbot/scripts/*.bat
+!/tools/
+!/tools/*.ps1
+!/.github/
+!/.github/workflows/
+!/.github/workflows/validate.yml

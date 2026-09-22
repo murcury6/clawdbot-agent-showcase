@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "f3988f31a2b0225703257ae3cfc6e99a6c0ac4d79fddd018675930af0f8c52b0"
+    },
+    {
+      "path": ".github/workflows/validate.yml",
+      "sha256": "7c5b7e8cc96d7417467926c1b878d3a29060a62043fdc59b28b0db5c690aba48"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "18198dfdb3f7d22ccae118e820be2270a348f0df1d3fa8cbdf97ea11cac924cb"
+    },
+    {
+      "path": "1 - Start Bot.bat",
+      "sha256": "e71d6265a37a04d12e20ebb66c5d5d3f4a41676689704c24c76a721421542582"
+    },
+    {
+      "path": "2 - Chat With Bot.bat",
+      "sha256": "75376a112d2e47a0f2f9e21730795a9fb9189a972815fa5d9ed0e9ecef54ef2b"
+    },
+    {
+      "path": "3 - Check Bot.bat",
+      "sha256": "b711cad24c7bcf0b41d2651da8d536558dfb47d0fe55577a11720de8100be0e4"
+    },
+    {
+      "path": "4 - Stop Bot.bat",
+      "sha256": "c83be96d8cf322fccc9c66fdc43b9c293f216de87fbafb36599438f4d44bd28f"
+    },
+    {
+      "path": "5 - Settings.bat",
+      "sha256": "e1a2d326e2ca55875eacf358e1df9731c572086c3564ff86fb580541ffb0b711"
+    },
+    {
+      "path": "6 - Fresh Start Bot.bat",
+      "sha256": "e4482c056b364d27d5a3ea7675b69c4e5e93bf0c7cafea1c318627455435e8cf"
+    },
+    {
+      "path": "ClawdBot Control Center.bat",
+      "sha256": "a55d74cacfaef2179c1b152f81cd1ff2a8f6050d6f74eee7cd708ab229d431fe"
+    },
+    {
+      "path": "clawdbot/README.txt",
+      "sha256": "3c1efbd7bdf4b513804ea2eb4210d60d8d1470d6a9c8989fcb5cde50925e8643"
+    },
+    {
+      "path": "clawdbot/scripts/agent-continuity-watchdog.cmd",
+      "sha256": "252b009aad8426db5e27d1698f75b28ec7e1bf274962fa8710dad7e2f8a7310c"
+    },
+    {
+      "path": "clawdbot/scripts/agent-continuity-watchdog.ps1",
+      "sha256": "82f7ba10a17c8829ba9c4310b9ba6b7561070ea4708b2b0367c370dc30382046"
+    },
+    {
+      "path": "clawdbot/scripts/clawdbot-control-center.ps1",
+      "sha256": "ee70f3b35a8a320d1789c3177fd26aa53a03076ac89b5738fe1010689d06c7ab"
+    },
+    {
+      "path": "clawdbot/scripts/desktop-input.bat",
+      "sha256": "7a84f7461caaaf7b025806ec48aab61db239048b23c39840478d33f7528c0ee3"
+    },
+    {
+      "path": "clawdbot/scripts/desktop-input.ps1",
+      "sha256": "75ac9fbd736c3c7b7bca636ef9bfb52065846e5cf26176c351e67141b3f9d2ab"
+    },
+    {
+      "path": "clawdbot/scripts/ensure-portable-config.ps1",
+      "sha256": "d2a8ea6f5389f516635d5c451369d35315fc6497cf84906b79835a3df7ba894f"
+    },
+    {
+      "path": "clawdbot/scripts/install-watchdog.ps1",
+      "sha256": "f3fa7be752ab6ec562324005255dec5f3ab6b68108348633ca9b6cf6e20b996f"
+    },
+    {
+      "path": "clawdbot/scripts/invoke-openclaw-portable.ps1",
+      "sha256": "282e4de2e62f3a77c96103fd97ee1e07f1ba70340e2e09b5f775af557d3d4e9b"
+    },
+    {
+      "path": "clawdbot/scripts/keep-working-nudge.cmd",
+      "sha256": "83ae52aaffe8b95377705d12855bd73d2b26f6513f1bf1bbca8f694ce5bd7a7c"
+    },
+    {
+      "path": "clawdbot/scripts/openclaw-portable.bat",
+      "sha256": "1f8bfa88d2403919595d11f17d86a75a71e5efa4470544a17d003dd01e912c12"
+    },
+    {
+      "path": "clawdbot/scripts/portable-chat.bat",
+      "sha256": "7a3acf64fdffaa5081a26fc5ddd5f2f7e3c01839daff5bcc02ec1b71b41b388e"
+    },
+    {
+      "path": "clawdbot/scripts/portable-check.bat",
+      "sha256": "b5673e50d13cfef6cba485d3aea48dc7f50a21ff25da058c7e66997e6b5cbc7c"
+    },
+    {
+      "path": "clawdbot/scripts/portable-fresh-start.bat",
+      "sha256": "c3e819d1de4a231f2c8dc981ab16818503c2c5d3d33b32545c9db8b2a320962f"
+    },
+    {
+      "path": "clawdbot/scripts/portable-secrets.ps1",
+      "sha256": "501de81cfb8881a3713972377ded86cf02e22c7706ce15818af944ed4acc475a"
+    },
+    {
+      "path": "clawdbot/scripts/portable-settings.bat",
+      "sha256": "5353c6b314ad2b70e10e5ed726b9e971051e908f9453c644d31afa71a09ac7f9"
+    },
+    {
+      "path": "clawdbot/scripts/portable-start-background.ps1",
+      "sha256": "85298520983469955e3cdf3265bf15687723b6367e12dd2feeac51341c23812b"
+    },
+    {
+      "path": "clawdbot/scripts/portable-start.bat",
+      "sha256": "0c2837002366c1073fc01f50d11e096dceab422fede4c7254d896a951a176988"
+    },
+    {
+      "path": "clawdbot/scripts/portable-stop.bat",
+      "sha256": "996f7c950dbfa53f7f2a5f903cfbec1fc942c3c23544d91eb3498542c2dad286"
+    },
+    {
+      "path": "clawdbot/scripts/post-reply-nudge.cmd",
+      "sha256": "a0aae9c917112347692d6ce89e7df191a572eee6b6ae63a2abf4265b2148f2b7"
+    },
+    {
+      "path": "clawdbot/scripts/require-unlock.ps1",
+      "sha256": "268bae68d45c9f8a528e3a7197c34f1871f0cfc9d915e31f501ac5f746462c9e"
+    },
+    {
+      "path": "clawdbot/scripts/reset-portable-data.ps1",
+      "sha256": "aac9070b894d9ee0f95b77cb9678e0c1b2170db77a5b66f4a42d7185a42ee58e"
+    },
+    {
+      "path": "clawdbot/scripts/select-model.ps1",
+      "sha256": "f69d24dd4c720e99b96ee3e3f642429aeeb401f04c721af7591ffb7dfa759b4a"
+    },
+    {
+      "path": "clawdbot/scripts/start-stack.ps1",
+      "sha256": "076678a409b1de53812d52bde84e38b49d9fe7ec3aa99351f39d9d001cf73322"
+    },
+    {
+      "path": "clawdbot/scripts/stop-stack.ps1",
+      "sha256": "c1d569fcfa884b204bfa806425dbd4fbc9b485776263c571857ec28d46cf561f"
+    },
+    {
+      "path": "clawdbot/scripts/sync-ai-context.ps1",
+      "sha256": "4676a7608affdc82657831fa6c16954e03ba81f001710dcb0404f3501aeb0564"
+    },
+    {
+      "path": "clawdbot/scripts/sync-portable-keys.ps1",
+      "sha256": "0505dd899099729d9e70629ae8f0fc80f6ee77e97005ae0e387cc50c5bdcb67c"
+    },
+    {
+      "path": "clawdbot/scripts/telegram-auto-continue.cmd",
+      "sha256": "1df49d20ca85e93d76aa43cabfba65eafb1be578b6cfb2ce09b0d9cc3cfba0a3"
+    },
+    {
+      "path": "clawdbot/scripts/telegram-auto-continue.ps1",
+      "sha256": "1b87e28c7103f04e6013d0c53b7f59fb08454d039c2ccd341a0d2f14a55945a8"
+    },
+    {
+      "path": "clawdbot/scripts/telegram-work-controller.cmd",
+      "sha256": "73cfc815fb388c11e2268e8f400f2ae76dd5ec2fb2016773f2682b29e0d20c0a"
+    },
+    {
+      "path": "clawdbot/scripts/telegram-work-controller.ps1",
+      "sha256": "1a2e77af0c488225f8903bb35e07acaf65bf5664f34d2b5cab53c59e165b958d"
+    },
+    {
+      "path": "clawdbot/scripts/watchdog-start.ps1",
+      "sha256": "c0407d89ff92358c5017e4d2c9282421031103690c51092b80bbcb4208732f0c"
+    },
+    {
+      "path": "PUBLICATION.md",
+      "sha256": "e25cce63ae2afa23f1824447a28a29e9e8fa0ebce15f17560a3de868adfbb357"
+    },
+    {
+      "path": "README.md",
+      "sha256": "d017830d3ff249d907922e62e9c16e0172fbef997021294fea6a2b8c41219a88"
+    },
+    {
+      "path": "tools/test-source.ps1",
+      "sha256": "5aab9dbcb91797fc1bf563c650cdb77a361adf68ae94ba28e9ceb870069c51b7"
+    },
+    {
+      "path": "tools/verify-release.ps1",
+      "sha256": "a0d8bf99fd2bc77f82873390a847fb081d2d65c363381ca218233057c4497093"
+    }
+  ]
+}
